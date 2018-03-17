@@ -1,0 +1,7 @@
+Knowledge
+All Books||#knowledge
+Certain Books||#knowledge <text>
+Read Books||#knowledge -r
+Unread Books||#knowledge -u
+Books Read||#knowledge -t
+Current Book||#research

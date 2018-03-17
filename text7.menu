@@ -1,0 +1,23 @@
+PM
+PM Somebody||/<playername> <text>
+||
+||
+Mercator-About||/mercator about <Player Name>
+Mercator-Isonline||/mercator isonline <Player Name>
+Mercator-Tell||/mercator tell <player name> <message>
+Mercator-Tellme||/mercator tellme <add/delete> <Playername> <Optional: Message>
+Mercator-Profile||/mercator pref Profile line<number 1-5> <message>
+Mercator-Password||/mercator pref password <Password>
+Mercator-Privacy||/mercator pref privacy <on/off>
+||
+||
+Bot-Inv||/<bot name> inv
+Bot-wanted||/<bot name> wanted
+Bot-inv members||/<bot name> im
+Bot-Buy||/<Bot Name> buy <Qt.> <Name of Object>
+Bot-Donate||/<bot name> Donate
+Bot-About||/<bot name> info
+Bot-Help||/<bot name> help
+Bot-Loc||/<bot name> loc
+Bot-Advanced Help||/<bot name> advhelp
+Bot-Admin Help||/<bot name> adminhelp

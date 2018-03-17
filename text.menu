@@ -1,0 +1,41 @@
+Guild
+Guild Info||#guild_info <Guild Tag>
+Join||#join_guild <Full Guild Name>
+Leave||#leave_guild
+Accept.||#accept <Player Name>
+Remove||#remove <Player Name>
+View Rank||#rank <Player Name>
+My Rank|| #rank
+Change Rank||#change_rank <Player Name> <Rank>
+Change Tag Colour||#set_guild_color <Guild Tag> <Colour>
+View Guild Colour.||#view_guild_colors
+Members||#list_guild
+Set Ally||#set_ally_guild <Guild Tag>
+Unset Ally||#unset_ally_guild <Guild Tag>
+List Allies||#allies_list
+Set Enemy||#set_enemy_guild <Guild Tag>
+Unset Enemy||#unset_enemy_guild <Guild Tag>
+Enemy List||#enemies_list
+Register as Fighter||#enemy_combatant
+Register as SafeZone||#enemy_pacifist
+Guild Frags||#frags
+Block Guild Messages||#ig_block <Guild Tag>
+Unblock Guild Messages||#ig_unblock <Guild Tag>
+Blocked Guild Messages List||#ig_block_list
+||
+||
+Ignores||#ignores
+Ignore Bots||#ignore_bots
+Set Alias||#alias <Number> <Text>
+View Aliases||#aliases
+||
+||
+Make Guild||#make_guild
+Destroy Guild||#destroy_guild
+Set Guild Name||#set_name <text>
+Set Guild Description||#set_desc <text>
+Set URL||#set_url <text>
+Set Join Info||#set_join_info <text>
+Set Short Name||#set_short_name <text>
+Change Guild Color||#set_guild_color <guild tag> <color>
+Change Owner||#change_owner <Player Name>

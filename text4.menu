@@ -1,0 +1,6 @@
+Markers
+Mark new||#mark <text>
+Specific Mark||#markpos <coordinates> <text>
+Unmark||#unmark <text>
+Marker Color||#marker_color <color>
+Current Colors||#marker_color

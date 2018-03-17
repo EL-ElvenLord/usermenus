@@ -1,0 +1,7 @@
+Buddy
+Add Buddy||#add_buddy <Player Name>
+Delete Buddy||#del_buddy <Player Name>
+Accept Buddy||#accept_buddy <Player Name>
+Clear Buddies||#clear_buddy
+Change Buddy||#change_buddy <Player Name> <Number>
+Privacy on/off||#set_privacy <On/Off>

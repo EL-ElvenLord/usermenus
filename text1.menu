@@ -1,0 +1,23 @@
+Self
+Beam||#beam me
+Help||#help_me <text>
+Abuse||#abuse <text>
+Experience||#exp
+Achievements||#ach
+PK Score||#pki
+Instance Hours||#ii
+Ignore||#ignore <Player Name>
+Unignore||#unignore <Player Name>
+Read Only Storage||#sto
+Personal Stats||#arm
+Perks||#list_perks
+Gods Serving||#list_gods
+AFK||#afk
+AFK Messages||#msg all
+Kill Self||#suicide
+Reset||#reset
+Change Password||#change_pass <Old Password> <New Password>
+||
+||
+Video Card Info||#glinfo
+Server Connection||#ping
